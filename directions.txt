@@ -1,0 +1,7 @@
+CREATE BOOTSTRAP HOMEPAGE
+
+1. create a navbar
+2. create a side navbar
+3. fill body with content
+4. change colors to match bootstraps actual site
+
