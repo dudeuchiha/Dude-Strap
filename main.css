@@ -5,3 +5,14 @@
 .dudeText{
     color: white !important;
 }
+.dudeText:hover{
+    color: #f5d142 !important;
+    font-weight: bold;
+}
+.sidenavtext{
+    color: #7432b3 !important;
+}
+.sidenavtext:hover{
+    color: #f5d142 !important;
+    font-weight: bolder;
+}
