@@ -1,4 +1,7 @@
-.navbar, li{
+.navbar{
     background: #7432b3 !important;
-    color:#f5d142 !important; 
     }
+
+.dudeText{
+    color: white !important;
+}
