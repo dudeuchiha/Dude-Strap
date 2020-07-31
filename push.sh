@@ -1,3 +1,4 @@
 git add .
-git commit -m "robo push... GO!"
+read -p "Enter your commit message: " message
+git commit -m "$message"
 git push origin master
